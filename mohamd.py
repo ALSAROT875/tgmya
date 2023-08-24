@@ -286,7 +286,7 @@ import requests
 
 
 
-𝒎𝒉𝒎𝒂𝒅.start()
+mhmad.start()
 
 
 
